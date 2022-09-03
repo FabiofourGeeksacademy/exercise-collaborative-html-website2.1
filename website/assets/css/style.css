@@ -1,3 +1,18 @@
 body{
     background: #BDBDBD;
 }
+
+.portafolio{
+    margin: 100px;
+}
+
+.card{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-title{
+    color: blue;
+    font-size: 22px;
+    font-weight: bold;
+}
