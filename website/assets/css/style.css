@@ -1,3 +1,17 @@
 body{
-    background: #BDBDBD;
+    /*background: #BDBDBD;*/
+}
+.cuerpo{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.izquierdo{
+    width: 800px;
+}
+
+.imagen{
+    width: 300px;
+    height: 300px;
 }
